@@ -1,4 +1,4 @@
-# graph-X-
+# graph(X)
 
 A software for analyzing and visualizing the centrality of edges in a network. It offers various functions and options to determine and plot edge centrality. Additionally, methods are available to compare different centrality measures in various ways. Read the documentation for more information.
 
